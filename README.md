@@ -97,9 +97,9 @@ Implemented Retrieval-Augmented Generation using vector databases, embeddings, a
 
 ## 📫 Connect With Me
 
-* LinkedIn: [Add Your LinkedIn Profile]
-* GitHub: [Add Your GitHub Profile]
-* Email: [Add Your Email]
+* LinkedIn: https://www.linkedin.com/in/manoj-s-5681303b9/
+
+* Email: manoj20it06@gmail.com
 
 ---
 
