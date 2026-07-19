@@ -31,8 +31,6 @@
 
 * Java
 * Python
-* C
-* JavaScript
 * SQL
 
 ### Web Technologies
@@ -40,8 +38,6 @@
 * HTML
 * CSS
 * JavaScript
-* PHP
-* Servlets
 
 ### Databases
 
@@ -53,7 +49,6 @@
 * VS Code
 * IntelliJ IDEA
 * Eclipse
-* Postman
 
 ---
 
@@ -83,7 +78,6 @@ Implemented Retrieval-Augmented Generation using vector databases, embeddings, a
 * Strengthening DSA & Problem Solving
 * Building Full-Stack Applications
 * Contributing to Open Source
-* Learning Cloud & DevOps Fundamentals
 
 ---
 
